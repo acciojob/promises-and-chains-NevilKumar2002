@@ -56,11 +56,11 @@
                 }, 4000);
             });
 
-            promise.then(() => {
-                console.log("Promise resolved: User is old enough.");
-            }).catch(() => {
-                console.log("Promise rejected: User is not old enough.");
-            });
+        //     promise.then(() => {
+        //         console.log("Promise resolved: User is old enough.");
+        //     }).catch(() => {
+        //         console.log("Promise rejected: User is not old enough.");
+        //     });
         });
     
 
